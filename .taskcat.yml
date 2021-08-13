@@ -11,7 +11,7 @@ tests:
     regions:
     - us-east-1
     parameters:
-      InstanceType: "t2.micro"
+      InstanceType: "t2.medium"
       AvailabilityZones: "$[taskcat_getaz_2]"
       EmailAddress: "guanminggege@gmail.com"
       KeyPairName: "qsworkshop20210813"
