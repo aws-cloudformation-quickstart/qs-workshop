@@ -19,3 +19,4 @@ tests:
       QSS3KeyPrefix: "qs-workshop/"
       QSS3BucketName: "$[taskcat_autobucket]"
       QSS3BucketRegion: "$[taskcat_current_region]"
+# add commit for push
