@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: us-east-1
+StackName: tCaT-qs-workshop-default-ea72871e97614382922655069a9c21e1
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value DevOps_2021.pem for parameter name
+KeyPairName does not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId                                          ResourceStatusReason
+--------------------------------  ------------------  --------------------------  ---------------------------------------------------------  ----------------------------------------------------------------------------------------------------------
+2021-08-13 02:43:10.252000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-qs-workshop-default-ea72871e97614382922655069a9c21e1  Parameter validation failed: parameter value DevOps_2021.pem for parameter name KeyPairName does not exist
+2021-08-13 02:43:07.658000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-qs-workshop-default-ea72871e97614382922655069a9c21e1  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Friday, 13. August 2021 02:44PM
+-----------------------------------------------------------------------------
+
