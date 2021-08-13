@@ -37,7 +37,7 @@ Parameters:
       - r4.4xlarge
       - r4.8xlarge
     ConstraintDescription: "must be a valid EC2 instance type."
-    Default: t2.medium
+    Default: t2.micro
     Description: "EC2 instance type"
     Type: String
   KeyPairName:
